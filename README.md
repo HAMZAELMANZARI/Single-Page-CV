@@ -1,6 +1,8 @@
 # Single-Page-CV
-###Add Your Link : https://hamzaelmanzari.github.io/Single-Page-CV/ 
-Create a single-page HTML CV to showcase your career history
+##Add Your Link : https://hamzaelmanzari.github.io/Single-Page-CV/ 
+##Result:
+<img src="images/cv.png " >
+###Create a single-page HTML CV to showcase your career history
 Key requirements for this project:
 
     Semantic HTML: Use appropriate HTML tags to structure your CV.
