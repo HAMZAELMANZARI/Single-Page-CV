@@ -1,8 +1,8 @@
 # Single-Page-CV
-##Add Your Link : https://hamzaelmanzari.github.io/Single-Page-CV/ 
-##Result:
+## Add Your Link : https://hamzaelmanzari.github.io/Single-Page-CV/ 
+## Result:
 <img src="images/cv.png " >
-###Create a single-page HTML CV to showcase your career history
+### Create a single-page HTML CV to showcase your career history
 Key requirements for this project:
 
     Semantic HTML: Use appropriate HTML tags to structure your CV.
@@ -21,4 +21,4 @@ Submission Checklist:
 
 By completing this project, you’ll gain a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare your webpage for future styling. This foundation will enable you to move on to styling the CV using CSS in subsequent projects.
 
-##https://roadmap.sh/projects/single-page-cv
+## https://roadmap.sh/projects/single-page-cv
